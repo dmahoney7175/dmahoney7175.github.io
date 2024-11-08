@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/Phoenix-Suns-2013-2014/index.html",
+    "href": "posts/Phoenix-Suns-2013-2014/index.html",
+    "title": "Phoenix Suns were a Playoff Team in 2013-2014",
+    "section": "",
+    "text": "Phoenix Suns were a good team in the 2013-2014 NBA season.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nCode\n#| message: FALSE\n#| warning: FALSE"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "about.html#this-is-daniel-mahoneys-sports-blog-piece-really-interested-in-the-nba.",
+    "href": "about.html#this-is-daniel-mahoneys-sports-blog-piece-really-interested-in-the-nba.",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DanielsSportsBlog",
+    "section": "",
+    "text": "Phoenix Suns were a Playoff Team in 2013-2014\n\n\n\n\n\n\nbasketball\n\n\nnba\n\n\nphoenix\n\n\nsuns\n\n\n\n\n\n\n\n\n\nNov 5, 2024\n\n\nDaniel Mahoney\n\n\n\n\n\n\nNo matching items"
+  }
+]
